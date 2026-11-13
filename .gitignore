@@ -1,0 +1,6 @@
+node_modules
+dist
+.aws
+.vista.log
+pnpm-store-operation-locks
+.env*
